@@ -1,9 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.3251f602.css",
-    "main.js": "/static/js/main.e7259532.js",
-    "static/media/april-events-2.jpg": "/static/media/april-events-2.ddd3ccfb6f6225a861a5.jpg",
-    "static/media/april-events-1.jpg": "/static/media/april-events-1.0da8e8f403dc52a97e83.jpg",
+    "main.js": "/static/js/main.1a56efb8.js",
+    "static/media/may-4.png": "/static/media/may-4.76fec3459633e1791d68.png",
+    "static/media/may-2.png": "/static/media/may-2.6dd54096848cc19c64d1.png",
+    "static/media/may-1.png": "/static/media/may-1.b48760e6056f7c09b9d5.png",
+    "static/media/may-3.png": "/static/media/may-3.bda30fea4de804a143ce.png",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/redondomenupage1.jpg": "/static/media/redondomenupage1.df845e5b73298d6b92f9.jpg",
     "static/media/redondomenupage2.jpg": "/static/media/redondomenupage2.5336882312ee4f7a823e.jpg",
@@ -16,10 +18,10 @@
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/index.html",
     "main.3251f602.css.map": "/static/css/main.3251f602.css.map",
-    "main.e7259532.js.map": "/static/js/main.e7259532.js.map"
+    "main.1a56efb8.js.map": "/static/js/main.1a56efb8.js.map"
   },
   "entrypoints": [
     "static/css/main.3251f602.css",
-    "static/js/main.e7259532.js"
+    "static/js/main.1a56efb8.js"
   ]
 }
