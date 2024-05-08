@@ -5,10 +5,10 @@ import lomitaCarouselImages from "../data/lomitaCarouselImages";
 import lomitaMenu1 from "../menus/lomitamenupage2.jpg";
 import lomitaMenu2 from "../menus/lomitamenupage1.jpg"; // Corrected file extension
 import lomitaMap from "../maps/lomitamap.png"; // Corrected file path
-import lomitaevents1 from "../calendar/may-1.jpg";
-import lomitaevents2 from "../calendar/may-2.jpg";
-import lomitaevents3 from "../calendar/may-3.jpg";
-import lomitaevents4 from "../calendar/may-4.jpg";
+import lomitaevents1 from "../calendar/may-1.png";
+import lomitaevents2 from "../calendar/may-2.png";
+import lomitaevents3 from "../calendar/may-3.png";
+import lomitaevents4 from "../calendar/may-4.png";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faInstagram } from '@fortawesome/free-brands-svg-icons';
 import Navbar from "react-bootstrap/Navbar";
